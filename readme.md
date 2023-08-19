@@ -1,0 +1,3 @@
+## LearnMnist
+### requirment:
+torch
