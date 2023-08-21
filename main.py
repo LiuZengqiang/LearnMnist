@@ -168,4 +168,4 @@ if __name__ == '__main__':
     # 保存模型
     # 将训练完成后的模型参数值保存在文件中
     # 以后可以通过 model.state_dict(torch.load('weights.pth')) 直接加载训练好的模型
-    torch.save(model.state_dict(), "weigths.pth")
+    torch.save(model.state_dict(), "weights.pth")
